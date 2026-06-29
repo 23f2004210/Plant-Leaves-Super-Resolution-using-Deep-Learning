@@ -14,7 +14,7 @@ This project was developed as part of a Kaggle competition on image super-resolu
 
 <div align="center">
 
-<img src="assets/plant_leaf_super_resolution.png" width="900"/>
+<img src="assets/Plant Leaf Super Resolution.png" width="900"/>
 
 **Figure 1:** Example of a low-resolution (32×32) crop leaf image and its corresponding high-resolution (128×128) target image used during training.
 
